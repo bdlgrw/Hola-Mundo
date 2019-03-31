@@ -1,2 +1,4 @@
 # Hola-Mundo
-Este es mi primer repositorio
+El primer repositorio que hago
+Aqui aprendiendo git
+.....
